@@ -5,6 +5,8 @@ The Code is written in Python 3.6.10. If you don't have Python installed you can
 ```bash
 pip install -r requirements.txt
 ```
+## App Link
+To view the deployed model, click on the [link](https://airfaresplayers.herokuapp.com/)
 
 ## Deployment 
 ![image](https://user-images.githubusercontent.com/68817881/148201965-340f9697-4d2a-40b6-ab48-ebfb456e56af.png)
